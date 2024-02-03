@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8F3A24DF-49A4-4045-91AE-084CCEF09DE9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="practicemauiproject/MainPage.xaml">
+    <Files>
+      <File FileName="practicemauiproject/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="practicemauiproject/MainPage.xaml" Line="14" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="practicemauiproject" expanded="True">
+            <Node name="practicemauiproject" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.practicemauiproject PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.95" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
